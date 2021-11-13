@@ -1,9 +1,44 @@
 [
   {
-    "nume":"",
-    "firma":""
+    "nume":"Amber Ale",
+    "firma":"Olovina",
+    "adresa":"Bucuresti, The Artist",
+    "poza":"alsace"
   },
   {
-    
-  }
+    "nume":"Punk IPA",
+    "firma":"BrewDog",
+    "adresa":"Brasov, Kaiamo",
+    "poza":"drink__2_"
+  },
+  {
+    "nume":"Divine Faith",
+    "firma":"Northern Monk",
+    "adresa":"Baia Mare, Cinquecento",
+    "poza":""
+  },
+  {
+    "nume":"Tripel Karmeliet",
+    "firma":"Brouwerij Bosteels",
+    "adresa":"Bucuresti, Zexe",
+    "poza":"cocktail"
+  },
+  {
+    "nume":"Duvel",
+    "firma":"Duvel Moortgat",
+    "adresa":"Bucuresti, Noeme",
+    "poza":"coconut_drink"
+  },
+  {
+    "nume":"The guardian",
+    "firma":"Ignat Brewery",
+    "adresa":"Bucuresti, Origo Coffee",
+    "poza":"drink__1_"
+  },
+  {
+    "nume":"Jupiler",
+    "firma":"Brasserie Jupiler",
+    "adresa":"Bucuresti, Le Bab",
+    "poza":"cocktail__1"
+  },
 ]
